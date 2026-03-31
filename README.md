@@ -1,5 +1,5 @@
 # Django Sprint 4 — Блогикум
-
+![image](https://github.com/EnroXD1/django_sprint4/blob/6d52be8586929adcba6734bd8ca0c0b4e719b74d/screen.png)
 ## Описание
 **Блогикум** — учебный Django-проект с публикациями, категориями, профилями пользователей и системой комментариев.
 
