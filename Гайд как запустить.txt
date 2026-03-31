@@ -1,0 +1,8 @@
+Логин пользователя: novyj_avtor
+Пароль: Blogicum123!
+
+Как загрузить:
+1. cd blogicum
+2. python manage.py migrate
+3. python manage.py loaddata ../db.json
+4. python manage.py runserver
